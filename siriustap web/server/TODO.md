@@ -10,9 +10,9 @@
   - [x] npm install
   - [x] npm start test successful.
   - [x] Debug test.
-  - [x] Added bootstrap support and navbar.
-  - [x] Added Landing controller.
-  - [x] Make template NavBar to apply to all pages.
+  - [ ] Added bootstrap support and navbar.
+  - [ ] Added Landing controller.
+  - [ ] Make template NavBar to apply to all pages.
 
 - [ ] Design Server Look and Feel
   - [ ] Implement landing page look.
