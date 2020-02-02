@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title><%= title %></title>
+    <link rel='stylesheet' href='bower_components/bootstrap/dist/css/bootstrap.css' />
+  </head>
+  <body>
+    <% include templates/header.ejs %>
+
+    <h1><%= message %></h1>
+    <h2><%= error.status %></h2>
+    <pre><%= error.stack %></pre>
+
+  </body>
+</html>

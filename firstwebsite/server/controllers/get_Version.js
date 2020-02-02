@@ -1,0 +1,1 @@
+export const get_Version = () => "1.0";
