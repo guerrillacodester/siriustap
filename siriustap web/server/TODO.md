@@ -2,9 +2,9 @@
 
 - [ ] Implement server boilerplate.
 
+  - [ ] generate express --git.
   - [ ] npm install -D babel-cli babel-preset-env for ES6 support. MUST BE DONE AFTER express --git since this command resets all installs!
   - [ ] Add "start": "babel-node ./bin/www" to package.json
-  - [ ] generate express --git.
   - [ ] Add "runtimeExecutable": "\${workspaceFolder}/node_modules/.bin/babel-node", to launch.json
   - [ ] touch .bowerrc at the root level to define where the various packages (bootstrap, bootswatch, etc) should be installed.
   - [ ] npm install
