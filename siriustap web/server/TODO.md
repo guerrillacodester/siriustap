@@ -1,6 +1,6 @@
 # Server Markdown TODO List
 
-- [x] Implement server boilerplate.
+- [ ] Implement server boilerplate.
 
   - [ ] npm install -D babel-cli babel-preset-env for ES6 support. MUST BE DONE AFTER express --git since this command resets all installs!
   - [ ] Add "start": "babel-node ./bin/www" to package.json
