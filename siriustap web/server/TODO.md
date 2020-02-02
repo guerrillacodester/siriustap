@@ -18,3 +18,4 @@
   - [x] Remove static serve and public folder.
   - [x] Update error handling
   - [x] Add GET '/'
+  - [x] used CORS.
