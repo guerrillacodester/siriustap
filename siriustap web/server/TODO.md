@@ -10,9 +10,11 @@
   - [x] npm install
   - [x] npm start test successful.
   - [x] Debug test.
-  - [ ] Added bootstrap support and navbar.
-  - [ ] Added Landing controller.
-  - [ ] Make template NavBar to apply to all pages.
 
-- [ ] Design Server Look and Feel
-  - [ ] Implement landing page look.
+- [x] Convert Express App to JSON API Boilerplate
+
+  - [x] Remove view rendering.
+  - [x] Remove routes folder
+  - [x] Remove static serve and public folder.
+  - [x] Update error handling
+  - [x] Add GET '/'
