@@ -1,4 +1,4 @@
-# Server Markdown TOTO List
+# Server Markdown TODO List
 
 - [x] Implement server boilerplate.
 
