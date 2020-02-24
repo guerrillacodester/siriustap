@@ -8,5 +8,5 @@
   - [x] Add jumbotron.
   - [x] touch index.js
   - [x] Add debug support.
-- [ ] Make test request to server
-  - [ ] Fix CORS error by adding to API server-side.
+- [x] Make test request to server
+  - [x] Fix CORS error by adding to API server-side.
